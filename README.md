@@ -22,45 +22,33 @@ SIMULADOR-EXAMENES/
 ### 1. Instala dependencias
 ```bash
 npm install
+```
 2. Ejecuta el servidor
-bash
-Copiar
-Editar
+```bash
 node backend/server.js
+```
 3. Accede desde el navegador
-arduino
-Copiar
-Editar
+   
 http://localhost:8000
+
 📋 Funcionalidades
-🎯 Selección aleatoria de 20 preguntas
-
-⏱ Temporizador con cuenta regresiva
-
-✅ Evaluación automática
-
-📊 Retroalimentación inmediata
-
-📁 Archivo JSON para gestionar preguntas fácilmente
+  🎯 Selección aleatoria de 20 preguntas
+  ⏱ Temporizador con cuenta regresiva
+  ✅ Evaluación automática
+  📊 Retroalimentación inmediata
+  📁 Archivo JSON para gestionar preguntas fácilmente
 
 📁 Archivos clave
 frontend/public/main.html: Interfaz web principal
-
 frontend/public/preguntas.json: Preguntas del examen
-
 backend/server.js: Servidor Express para servir archivos
 
 🤝 Autor
-Desarrollado por [Tu Nombre Aquí]
-📧 Contacto: [tu-email@example.com]
+Desarrollado por [Daniel Sanchez Gutierrez]
+📧 Contacto: [daniel.sanchez.guti@gmail.com]
 
 📝 Licencia
 Este proyecto está bajo la licencia MIT.
-
-yaml
-Copiar
-Editar
-
----
-
+```bash
 ¿Quieres que incluya una sección para desplegar en plataformas como Vercel o Render más adelante?
+```
