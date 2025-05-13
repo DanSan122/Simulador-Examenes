@@ -1,0 +1,647 @@
+[
+    {
+        "question": "¿Qué protocolo pertenece a la capa de aplicación?",
+        "options": [
+            "A. TCP",
+            "B. IP",
+            "C. SNMP",
+            "D. ICMP"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué capa del modelo OSI se encarga de la entrega confiable de segmentos?",
+        "options": [
+            "A. Capa de red (L3)",
+            "B. Capa de sesión (L5)",
+            "C. Capa de aplicación (L7)",
+            "D. Capa de transporte (L4)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "El protocolo UDP contiene un campo que permite validar la integridad del mensaje recibido.",
+        "options": [
+            "A. Verdadero",
+            "B. Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿A qué protocolo corresponde la función de Control de Envío?",
+        "options": [
+            "A. UDP",
+            "B. FTP",
+            "C. TCP",
+            "D. ICMP"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué categoría de cable de par trenzado utiliza conectores distintos al RJ45?",
+        "options": [
+            "A. Cat 5e",
+            "B. Cat 6A",
+            "C. Cat 5",
+            "D. Cat 6"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el tamaño mínimo de una trama Ethernet para que se considere válida?",
+        "options": [
+            "A. 64 bytes",
+            "B. 128 bytes",
+            "C. 46 bytes",
+            "D. 1518 bytes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la finalidad de segmentar una red?",
+        "options": [
+            "A. Reducir la velocidad",
+            "B. Facilitar la administración",
+            "C. Aumentar el costo",
+            "D. Eliminar direcciones IP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Un cable de par trenzado con estándar 568A en ambos extremos es:",
+        "options": [
+            "A. Cruzado",
+            "B. Directo",
+            "C. Rollover",
+            "D. Consola"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué capa del modelo TCP/IP se encarga del enrutamiento?",
+        "options": [
+            "A. Aplicación",
+            "B. Transporte",
+            "C. Internet",
+            "D. Enlace de datos"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes protocolos utiliza UDP?",
+        "options": [
+            "A. TCP",
+            "B. HTTP",
+            "C. DNS",
+            "D. SSH"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué medio de transmisión de cobre se utiliza actualmente en redes HFC?",
+        "options": [
+            "A. Par trenzado",
+            "B. Coaxial",
+            "C. Fibra óptica",
+            "D. Infrarrojo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de puertos utilizan los clientes cuando se conectan a un servidor TCP?",
+        "options": [
+            "A. Puertos bien conocidos",
+            "B. Aleatorios",
+            "C. Reservados",
+            "D. Estáticos"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué protocolo pertenece a la capa de red?",
+        "options": [
+            "A. TCP",
+            "B. ICMP",
+            "C. FTP",
+            "D. DHCP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de estas direcciones MAC es multicast?",
+        "options": [
+            "A. 00-1A-2B-3C-4D-5E",
+            "B. FF-FF-FF-FF-FF-FF",
+            "C. 01-00-5E-1B-EF-9F",
+            "D. 00-00-00-00-00-01"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cuando FTP funciona en modo pasivo, ¿qué tipo de puerto usa el servidor para transmitir datos?",
+        "options": [
+            "A. Puerto 20",
+            "B. Puerto 21",
+            "C. Aleatorio",
+            "D. Puerto 80"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una función de la subcapa MAC?",
+        "options": [
+            "A. Controlar acceso al medio",
+            "B. Manejar comunicación entre capas",
+            "C. Direccionamiento físico",
+            "D. Proveer control de flujo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuántas subredes /25 se pueden crear en la red 172.30.128.0/19?",
+        "options": [
+            "A. 32",
+            "B. 64",
+            "C. 128",
+            "D. 16"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuántos bits identifican al fabricante en una dirección MAC?",
+        "options": [
+            "A. 16 bits",
+            "B. 24 bits",
+            "C. 32 bits",
+            "D. 48 bits"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la dirección de broadcast de 192.168.70.191/27?",
+        "options": [
+            "A. 192.168.70.191",
+            "B. 192.168.70.223",
+            "C. 192.168.70.255",
+            "D. 192.168.70.224"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué capa o subcapa del modelo OSI se encarga de controlar el acceso al medio?",
+        "options": [
+            "A. Capa de red",
+            "B. MAC",
+            "C. Capa de aplicación",
+            "D. LLC"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el tamaño máximo de una trama Ethernet?",
+        "options": [
+            "A. 1518 bytes",
+            "B. 1522 bytes",
+            "C. 1500 bytes",
+            "D. 9000 bytes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué protocolo o servicio corresponde a la capa de presentación?",
+        "options": [
+            "A. MPEG",
+            "B. FTP",
+            "C. ICMP",
+            "D. RIP"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué prefijo de subred se recomienda para redes con hasta 2000 usuarios?",
+        "options": [
+            "A. /24",
+            "B. /21",
+            "C. /20",
+            "D. /19"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué capa del modelo OSI brinda una conexión confiable?",
+        "options": [
+            "A. Capa de sesión",
+            "B. Capa de red",
+            "C. Capa de transporte",
+            "D. Capa de enlace de datos"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué dirección IP es pública y pertenece a la clase B?",
+        "options": [
+            "A. 172.16.0.5",
+            "B. 190.52.15.44",
+            "C. 10.0.0.1",
+            "D. 192.168.0.10"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué medio de transmisión es el más usado en redes locales?",
+        "options": [
+            "A. Coaxial",
+            "B. Fibra óptica",
+            "C. UTP",
+            "D. Infrarrojo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué función de la subcapa MAC está relacionada con el control de acceso al medio?",
+        "options": [
+            "A. Fragmentación",
+            "B. Direccionamiento",
+            "C. Multiplexación",
+            "D. Compresión"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué capa se encarga del enrutamiento y direccionamiento IP?",
+        "options": [
+            "A. Capa de enlace de datos",
+            "B. Capa de red",
+            "C. Capa de sesión",
+            "D. Capa de transporte"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué dirección de red corresponde a 190.62.166.50/22?",
+        "options": [
+            "A. 190.62.164.0",
+            "B. 190.62.160.0",
+            "C. 190.62.168.0",
+            "D. 190.62.166.0"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de dirección se usa para enviar un mensaje a múltiples dispositivos simultáneamente?",
+        "options": [
+            "A. Unicast",
+            "B. Multicast",
+            "C. Broadcast",
+            "D. Anycast"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué protocolo permite descubrir la dirección MAC de un host en la red local?",
+        "options": [
+            "A. ICMP",
+            "B. ARP",
+            "C. RARP",
+            "D. DHCP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tamaño mínimo tiene una trama Ethernet válida?",
+        "options": [
+            "A. 46 bytes",
+            "B. 64 bytes",
+            "C. 128 bytes",
+            "D. 1500 bytes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de tráfico de red requiere QoS?",
+        "options": [
+            "A. FTP",
+            "B. Correo electrónico",
+            "C. Videoconferencia",
+            "D. HTTP"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué valor representa un campo TTL típico en IPv4?",
+        "options": [
+            "A. Número de protocolo",
+            "B. Tiempo de vida",
+            "C. Longitud de cabecera",
+            "D. Ventana de control"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué dirección IPv6 es válida como link-local?",
+        "options": [
+            "A. 2001::1",
+            "B. FE80::1",
+            "C. FF02::1",
+            "D. 192.168.1.1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué protocolo reemplaza ARP en IPv6?",
+        "options": [
+            "A. ICMPv6 con NS/NA",
+            "B. DHCPv6",
+            "C. SLAAC",
+            "D. BGP"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué protocolo usa el puerto 22?",
+        "options": [
+            "A. Telnet",
+            "B. SSH",
+            "C. FTP",
+            "D. SMTP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué máscara de subred equivale a /26?",
+        "options": [
+            "A. 255.255.255.128",
+            "B. 255.255.255.192",
+            "C. 255.255.255.224",
+            "D. 255.255.255.240"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué protocolo evita bucles en redes de capa 2?",
+        "options": [
+            "A. RIP",
+            "B. STP",
+            "C. OSPF",
+            "D. EIGRP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué comando en Cisco guarda la configuración en NVRAM?",
+        "options": [
+            "A. write memory",
+            "B. copy running-config startup-config",
+            "C. save config",
+            "D. store config"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tecnología permite dividir una red física en varias lógicas?",
+        "options": [
+            "A. NAT",
+            "B. VLAN",
+            "C. VPN",
+            "D. PAT"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué dirección IPv4 se usa como loopback?",
+        "options": [
+            "A. 192.168.0.1",
+            "B. 10.0.0.1",
+            "C. 127.0.0.1",
+            "D. 224.0.0.1"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué significa DHCP?",
+        "options": [
+            "A. Dynamic Host Control Protocol",
+            "B. Dynamic Host Configuration Protocol",
+            "C. Direct Host Communication Protocol",
+            "D. Dynamic Hardware Configuration Protocol"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué comando muestra el estado de interfaces en un switch Cisco?",
+        "options": [
+            "A. show interfaces",
+            "B. show ip interface brief",
+            "C. show running-config",
+            "D. show status"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tecnología permite priorizar tráfico en la red?",
+        "options": [
+            "A. VLAN",
+            "B. QoS",
+            "C. NAT",
+            "D. DHCP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué puerto usa HTTPS?",
+        "options": [
+            "A. 80",
+            "B. 443",
+            "C. 22",
+            "D. 21"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de NAT asigna una IP pública diferente a cada IP privada?",
+        "options": [
+            "A. PAT",
+            "B. NAT dinámico",
+            "C. NAT estático",
+            "D. NAT sobrecargado"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué comando permite configurar una IP en una interfaz de router Cisco?",
+        "options": [
+            "A. set ip address",
+            "B. ip address [ip] [máscara]",
+            "C. config ip",
+            "D. assign ip"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué topología física conecta cada dispositivo con un dispositivo central?",
+        "options": [
+            "A. Estrella",
+            "B. Bus",
+            "C. Anillo",
+            "D. Malla"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué comando permite ver la tabla de enrutamiento en routers Cisco?",
+        "options": [
+            "A. show ip route",
+            "B. show route",
+            "C. netstat -r",
+            "D. display routes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué puerto usa Telnet por defecto?",
+        "options": [
+            "A. 21",
+            "B. 23",
+            "C. 25",
+            "D. 22"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la máscara de subred de una red /30?",
+        "options": [
+            "A. 255.255.255.252",
+            "B. 255.255.255.248",
+            "C. 255.255.255.240",
+            "D. 255.255.255.254"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué valor decimal corresponde al prefijo /29?",
+        "options": [
+            "A. 248",
+            "B. 252",
+            "C. 240",
+            "D. 224"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de dirección IP es 192.168.1.100?",
+        "options": [
+            "A. Pública",
+            "B. Privada",
+            "C. Multicast",
+            "D. Loopback"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué protocolo permite la asignación dinámica de direcciones IP?",
+        "options": [
+            "A. ARP",
+            "B. DNS",
+            "C. DHCP",
+            "D. ICMP"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Verdadero o falso: La dirección 127.0.0.1 es una dirección de loopback.",
+        "options": [
+            "A. Verdadero",
+            "B. Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de dispositivo traduce direcciones privadas a públicas?",
+        "options": [
+            "A. Router",
+            "B. Switch",
+            "C. Servidor DNS",
+            "D. Hub"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tecnología permite múltiples redes virtuales sobre un mismo switch físico?",
+        "options": [
+            "A. VLAN",
+            "B. NAT",
+            "C. VPN",
+            "D. STP"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué comando en Cisco IOS permite entrar al modo privilegiado?",
+        "options": [
+            "A. enable",
+            "B. configure terminal",
+            "C. exec",
+            "D. privileged"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué protocolo de enrutamiento es de vector distancia?",
+        "options": [
+            "A. OSPF",
+            "B. EIGRP",
+            "C. RIP",
+            "D. BGP"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué protocolo usa el puerto 25?",
+        "options": [
+            "A. SMTP",
+            "B. POP3",
+            "C. HTTP",
+            "D. FTP"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué comando muestra las VLAN configuradas en un switch Cisco?",
+        "options": [
+            "A. show vlan brief",
+            "B. show running-config",
+            "C. show ip interface brief",
+            "D. show interfaces trunk"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué protocolo resuelve nombres de dominio?",
+        "options": [
+            "A. DHCP",
+            "B. DNS",
+            "C. ARP",
+            "D. FTP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Verdadero o falso: STP evita bucles en redes de capa 2.",
+        "options": [
+            "A. Verdadero",
+            "B. Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué puerto usa FTP para control de sesión?",
+        "options": [
+            "A. 20",
+            "B. 21",
+            "C. 22",
+            "D. 80"
+        ],
+        "answer": 1
+    }
+
+]

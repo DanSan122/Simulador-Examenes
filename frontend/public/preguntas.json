@@ -1,0 +1,372 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal del ciclo STLC?",
+        "options": [
+            "Generar interfaces",
+            "Planificar el desarrollo",
+            "Asegurar calidad mediante pruebas",
+            "Revisar código fuente"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "El aseguramiento de la calidad busca corregir errores detectados en pruebas.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué documento define restricciones, suposiciones y dependencias del sistema?",
+        "options": [
+            "Casos de uso",
+            "Backlog",
+            "SRS",
+            "Modelo entidad-relación"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué modelo de desarrollo permite retroalimentación constante del cliente?",
+        "options": [
+            "Waterfall",
+            "Modelo en V",
+            "Ágil",
+            "Modelo Big Bang"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes es una característica del aseguramiento de la calidad?",
+        "options": [
+            "Es reactivo",
+            "Busca prevenir defectos",
+            "Corrige errores",
+            "Realiza pruebas unitarias"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué significa STLC?",
+        "options": [
+            "Software Test Life Cycle",
+            "System Test Level Control",
+            "Software Technical Level Cycle",
+            "Software Tuning Level Cycle"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué herramienta se usa para representar escenarios con usuarios y sistemas?",
+        "options": [
+            "Casos de uso",
+            "Diagrama de Gantt",
+            "Backlog",
+            "Historias de usuario"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de prueba verifica el sistema completo como lo ve el usuario?",
+        "options": [
+            "Prueba unitaria",
+            "Prueba de sistema",
+            "Prueba de integración",
+            "Prueba de código"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué metodología se basa en iteraciones y entregas rápidas de producto?",
+        "options": [
+            "Cascada",
+            "En espiral",
+            "Ágil",
+            "Modelo V"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es un atributo de calidad del software?",
+        "options": [
+            "Compatibilidad de hardware",
+            "Tiempo de desarrollo",
+            "Fiabilidad",
+            "Lenguaje de programación"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "El modelo en cascada permite volver fácilmente a fases anteriores.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "STLC y SDLC son lo mismo.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Los requisitos no funcionales incluyen seguridad, rendimiento y mantenimiento.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Un documento DDS se genera en la fase de diseño.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la herramienta que recopila requisitos mediante conversaciones directas?",
+        "options": [
+            "Encuestas",
+            "Casos de uso",
+            "Entrevistas",
+            "Historias de usuario"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el primer paso del STLC?",
+        "options": [
+            "Ejecución de pruebas",
+            "Análisis de requisitos",
+            "Diseño de casos",
+            "Reporte de errores"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes es una prueba funcional?",
+        "options": [
+            "Prueba de carga",
+            "Prueba de estrés",
+            "Prueba de integración",
+            "Prueba de rendimiento"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Un SRS es útil solo durante la etapa de pruebas.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué ciclo de vida incluye validación, ejecución y cierre de pruebas?",
+        "options": [
+            "STLC",
+            "SDLC",
+            "SCRUM",
+            "UML"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué documento se utiliza para detallar los requisitos del sistema de software en desarrollo?",
+        "options": [
+            "SRS",
+            "DDS",
+            "STLC",
+            "SCRUM"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué significa que un proceso sea proactivo?",
+        "options": [
+            "Corrige defectos existentes",
+            "Previene errores desde el inicio",
+            "Ignora errores menores",
+            "Documenta errores sin corregir"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se basa en dividir entradas en grupos similares?",
+        "options": [
+            "Caja blanca",
+            "Transición de estados",
+            "Partición de equivalencia",
+            "Exploratoria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué se evalúa en la validación de requisitos?",
+        "options": [
+            "Tiempo de desarrollo",
+            "Cumplimiento de objetivos del cliente",
+            "Estilo de codificación",
+            "Uso de diagramas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de requerimientos describen las funciones que debe realizar el sistema?",
+        "options": [
+            "No funcionales",
+            "Funcionales",
+            "Operacionales",
+            "Técnicos"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué elemento NO forma parte del ciclo de vida del software?",
+        "options": [
+            "Pruebas",
+            "Codificación",
+            "Planificación",
+            "Depuración automática"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Las pruebas de caja blanca se enfocan en el comportamiento del sistema como lo ve el usuario.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué documento se genera en la fase de diseño del SDLC?",
+        "options": [
+            "SRS",
+            "STLC",
+            "DDS",
+            "SCRUM"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una herramienta de captura de requisitos?",
+        "options": [
+            "Observación",
+            "Prototipos",
+            "Encuestas",
+            "Compiladores"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué modelo de desarrollo sigue una secuencia lineal de fases?",
+        "options": [
+            "Ágil",
+            "En espiral",
+            "SCRUM",
+            "Cascada (Waterfall)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de pruebas se centra en el comportamiento sin conocer el código?",
+        "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Unitarias",
+            "Regresivas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica de pruebas se basa en el análisis de los estados del sistema?",
+        "options": [
+            "Valores límite",
+            "Partición de equivalencia",
+            "Transición de estados",
+            "Cobertura de código"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el rol del Product Owner?",
+        "options": [
+            "Codificar el sistema",
+            "Diseñar la interfaz",
+            "Definir los requisitos del producto",
+            "Realizar pruebas automatizadas"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Un error puede generar un defecto, y este a su vez causar un fallo.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica de prueba se basa en seleccionar valores en los extremos de un rango?",
+        "options": [
+            "Prueba de estrés",
+            "Valores límite",
+            "Transición de estados",
+            "Prueba regresiva"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de documento describe restricciones técnicas, rendimiento y portabilidad?",
+        "options": [
+            "Requisitos funcionales",
+            "Requisitos no funcionales",
+            "Plan de pruebas",
+            "Historial del sistema"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Las entrevistas son una técnica válida para recolectar requisitos.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "El Product Owner es el responsable de programar el sistema.",
+        "options": [
+            "Verdadero",
+            "Falso"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué etapa del SDLC se encarga de definir métricas y planificar recursos?",
+        "options": [
+            "Diseño",
+            "Planificación",
+            "Implementación",
+            "Pruebas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del documento SRS?",
+        "options": [
+            "Describir el diseño de la base de datos",
+            "Registrar los defectos encontrados",
+            "Especificar los requisitos funcionales y no funcionales",
+            "Estimar costos del proyecto"
+        ],
+        "answer": 2
+    }
+]
