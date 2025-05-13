@@ -5,15 +5,25 @@ Simulador de exámenes interactivo desarrollado con **Node.js** y **HTML**, idea
 ## 📦 Estructura del Proyecto
 
 SIMULADOR-EXAMENES/
+
 ├── backend/
+
 │ └── server.js
+
 ├── frontend/
+
 │ └── public/
+
 │ ├── main.html
+
 │ ├── preguntas.json
+
 │ └── assets/
+
 ├── scripts/
+
 ├── package.json
+
 └── README.md
 
 
@@ -32,11 +42,11 @@ node backend/server.js
 http://localhost:8000
 
 📋 Funcionalidades
-  🎯 Selección aleatoria de 20 preguntas
-  ⏱ Temporizador con cuenta regresiva
-  ✅ Evaluación automática
-  📊 Retroalimentación inmediata
-  📁 Archivo JSON para gestionar preguntas fácilmente
+  -🎯 Selección aleatoria de 20 preguntas
+  -⏱ Temporizador con cuenta regresiva
+  -✅ Evaluación automática
+  -📊 Retroalimentación inmediata
+  -📁 Archivo JSON para gestionar preguntas fácilmente
 
 📁 Archivos clave
 frontend/public/main.html: Interfaz web principal
