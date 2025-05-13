@@ -42,23 +42,23 @@ node backend/server.js
 http://localhost:8000
 
 📋 Funcionalidades
-  -🎯 Selección aleatoria de 20 preguntas
-  -⏱ Temporizador con cuenta regresiva
-  -✅ Evaluación automática
-  -📊 Retroalimentación inmediata
-  -📁 Archivo JSON para gestionar preguntas fácilmente
+  - 🎯 Selección aleatoria de 20 preguntas
+  - ⏱ Temporizador con cuenta regresiva
+  - ✅ Evaluación automática
+  - 📊 Retroalimentación inmediata
+  - 📁 Archivo JSON para gestionar preguntas fácilmente
 
 📁 Archivos clave
-frontend/public/main.html: Interfaz web principal
-frontend/public/preguntas.json: Preguntas del examen
-backend/server.js: Servidor Express para servir archivos
+ - frontend/public/main.html: Interfaz web principal
+ - frontend/public/preguntas.json: Preguntas del examen
+ - backend/server.js: Servidor Express para servir archivos
 
 🤝 Autor
-Desarrollado por [Daniel Sanchez Gutierrez]
-📧 Contacto: [daniel.sanchez.guti@gmail.com]
+ - Desarrollado por [Daniel Sanchez Gutierrez]
+ - 📧 Contacto: [daniel.sanchez.guti@gmail.com]
 
 📝 Licencia
-Este proyecto está bajo la licencia MIT.
+ - Este proyecto está bajo la licencia MIT.
 ```bash
 ¿Quieres que incluya una sección para desplegar en plataformas como Vercel o Render más adelante?
 ```
